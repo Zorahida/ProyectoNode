@@ -1,0 +1,10 @@
+GET http://localhost:5500/movies
+Content-Type: application/json
+
+{
+    'title': 'The Matrix',
+    'director': 'Hermanas Wachowski',
+    'year': 1999,
+    'genre': 'Acción',
+  }
+
